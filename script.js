@@ -139,7 +139,7 @@ const menudata = (curElem) => {
                         <img src=${image} alt=${name}>
                     </div>
                     <div class="footer">
-                        <div class="author" title="${author} Panchware">${author}</div>
+                        <div class="author" title="${author}">${author}</div>
                         <button>order now</button>
                         <span class="price">${price}</span>
                     </div>
