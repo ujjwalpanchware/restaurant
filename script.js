@@ -12,7 +12,7 @@ const menu = [
         'category': 'breakfast',
         'price': '15₹',
         'image': './Images/aalupoha.jpg',
-        'author': 'Mukund',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -20,7 +20,7 @@ const menu = [
         'category': 'lunch',
         'price': '35₹',
         'image': './Images/dosa.jpg',
-        'author': 'Gopal',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -28,7 +28,7 @@ const menu = [
         'category': 'evening',
         'price': '20₹',
         'image': './Images/noodles.jpg',
-        'author': 'Jagdish',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -36,7 +36,7 @@ const menu = [
         'category': 'dinner',
         'price': '40₹',
         'image': './Images/rajmarice.jpg',
-        'author': 'Jeeran',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -44,7 +44,7 @@ const menu = [
         'category': 'lunch',
         'price': '60₹',
         'image': './Images/rotisabji.jpg',
-        'author': 'Vilas',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -52,7 +52,7 @@ const menu = [
         'category': 'lunch',
         'price': '55₹',
         'image': './Images/dalrice.jpg',
-        'author': 'Madhuri',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -60,7 +60,7 @@ const menu = [
         'category': 'dinner',
         'price': '30₹',
         'image': './Images/pizza.jpg',
-        'author': 'Sneha',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -68,7 +68,7 @@ const menu = [
         'category': 'evening',
         'price': '45₹',
         'image': './Images/manchurian.jpg',
-        'author': 'Dhwani',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -76,7 +76,7 @@ const menu = [
         'category': 'lunch',
         'price': '20₹',
         'image': './Images/fruits.jpg',
-        'author': 'Janiram',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -84,7 +84,7 @@ const menu = [
         'category': 'evening',
         'price': '60₹',
         'image': './Images/gupchup.jpg',
-        'author': 'Sarita',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
@@ -92,12 +92,12 @@ const menu = [
         'category': 'breakfast',
         'price': '50₹',
         'image': './Images/aalubhonda.jpg',
-        'author': 'Mukund',
+        'author': 'Ujjwal',
         'description': 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus debitis ducimus non aut! Excepturi recusandae, sint voluptate error, quaerat'
     },
     {
         'name': 'Ek Aur samosa',
-        'category': 'Ujjwal',
+        'category': 'Special',
         'price': '1000₹',
         'image': './Images/samosa.jpg',
         'author': 'Ujjwal',
